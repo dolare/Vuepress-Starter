@@ -1,9 +1,9 @@
 ---
-title: Main README
+title: folder1 README
 sidebar: auto
 ---
 
-#home
+#folder1
 
 ##h2
 
