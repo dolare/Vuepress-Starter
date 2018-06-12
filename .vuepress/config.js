@@ -4,8 +4,6 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'folder1', link: '/folder1/' },
-      { text: 'google', link: 'https://google.com' },
       {
         text: 'Languages',
         items: [
@@ -15,17 +13,10 @@ module.exports = {
       }
     ],
     sidebar: [
-      {
-        title: 'Group 1',
-        collapsable: false,
-        children: [
-          '/'
-        ]
-      },
-      {
-        title: 'Group 2',
-        children: [ /* ... */ ]
-      }
+        '/week1'
     ]
+  },
+  markdown: {
+
   }
 }
