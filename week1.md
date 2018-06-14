@@ -1,7 +1,7 @@
 
 ## Weekly Task
 
-- [] Impersonate
+- [ ] Impersonate
     - [x] Implement UI of the Impersonate Modal
     - [x] The auto suggestion feature (auto complete by username)
     - [x] Apply the userlist api on modal when user is going to search user
