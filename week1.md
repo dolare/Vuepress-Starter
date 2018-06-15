@@ -1,5 +1,8 @@
+---
+sidebar: auto
+---
 
-## Weekly Task
+# Week1 -- 2018/06/11
 
 - [ ] Impersonate
     - [x] Implement UI of the Impersonate Modal
@@ -22,7 +25,7 @@
     - [x] Implement Feature that user could drag the mouse to navigate the slides
     - [x] Apply the API to show user's events on carousel
 - [ ] Grid-control
-    - [x] group sum/average/max/min feature  
+    - [x] group sum/average/max/min feature
     - [x] allow user save order of columns in his machine
 - [ ] Feedback from Dan
     - [x] Some required adjustments on text spaces and panel margins

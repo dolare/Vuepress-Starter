@@ -1,5 +1,6 @@
 module.exports = {
-  title: 'Hello VuePress',
+  base: '/weekly-report/',
+  title: 'Weekly Report',
   description: 'Just playing around',
   themeConfig: {
     nav: [
@@ -13,10 +14,18 @@ module.exports = {
       }
     ],
     sidebar: [
-        '/week1'
+        '/week1',
+        '/week2'
     ]
   },
   markdown: {
-
+    // options for markdown-it-anchor
+    anchor: { permalink: false },
+    // options for markdown-it-toc
+    toc: { includeLevel: [1, 2] },
+    config: md => {
+      // use more markdown-it plugins!
+      md.use(require('markdown-it-checkbox'))
+    }
   }
 }
