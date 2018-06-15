@@ -11,9 +11,8 @@ sidebar: auto
     - [x] implement logic allow user to enter username or select a full name in dropdown menu to get token
     - [x] rewrite one more router rule to match impersonate URL and store impoersonateToken in localtorage
     - [x] Hard code impersonated user to parent portal.
-    - [ ] Discuss with Avi and see how to know impersonated user's portals.
-- [ ] Homepage
-    - [x] API
+    - [x] Discuss with Avi and see how to know impersonated user's portals.
+    - [x] Add current roles checkbox and allow user to filter them.
 - [ ] Notification
     - [x] Implement UI of the Notification Panel
     - [x] Apply the API to show user's notification messages
@@ -26,11 +25,12 @@ sidebar: auto
     - [x] Apply the API to show user's events on carousel
 - [ ] Grid-control
     - [x] group sum/average/max/min feature
-    - [x] allow user save order of columns in his machine
+    - [x] allow user to save order of columns in his machine
+    - [ ] allow user to save selection columns in his machine
 - [ ] Feedback from Dan
     - [x] Some required adjustments on text spaces and panel margins
     - [x] Some required adjustments on panel border colors, opacity
 - [ ] data indicator
     - [x] discusse data indicator logic, require more APIs.
-    - [ ] call panel dataFlag API to update the view that has data after fitering
+    - [x] call panel dataFlag API to update the view that has data after fitering
     
