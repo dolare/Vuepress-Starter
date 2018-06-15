@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Week1 -- 2018/06/11
+# Week1 (2018/06/11 - 2018/06/17)
 
 - [ ] Impersonate
     - [x] Implement UI of the Impersonate Modal
