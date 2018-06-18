@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Week1 (2018/06/11 - 2018/06/17)
 
 ## Summary
