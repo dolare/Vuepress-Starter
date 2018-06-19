@@ -4,13 +4,12 @@
 
 ## Todo
 
-1. finish impersonate feature
-2. start doing staff filter header including student, term and period selection once charles or dan move this design to dev doing
-3. come up a solution about list/grid view and start doing it once we get design.
-4. worked with avi to add panels to academic portal using panels in academic gridList
-5. fix style current style issue following dan or other team member's feedback
-6. start doing grid control once we get grid control design from dan.
-7. start doing home page of academic portal if I get design.
+1. remove all children selection and only show one child information in a grid.
+2. create academic portal landing page and make a rule to match notification/panels in academic portal. 
+3. create filter header for academic portal following dan's design.
+4. implement new views/features in waiting list:list view, button in notification panel, date format in carousel.
+5. style modification and fix bug following dan's feedback:icon color in notification, center text in carousel, remove bell in header, sidebar white space issue, reduce padding in school header, ......
+
 
 
 ## Summary
