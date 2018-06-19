@@ -17,4 +17,21 @@ Coming soon
 
 ## Detail
 
-Coming soon
+- Academic Portal
+  - [ ] Show panels on landing page based on API
+- Child Filter
+  - [ ] Remove `All Children` Filter
+  - [ ] Show data of the first child in default
+  - [ ] Create Filter Header based on Dan's design
+- Style update
+  - [ ] center text and image in carousel
+  - [ ] Crop image if the image is bigger than carousel
+  - [ ] Remove bell icon in header
+  - [ ] Update logo icon
+- List View
+  - [ ] First version of List view
+- Impersonate
+  - [ ] Update header text on impersonate mode
+  - [ ] fix auto suggestion
+- Notification
+  - [ ] Show notification popup when user clicks on badges at child fitler
