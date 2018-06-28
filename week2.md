@@ -1,4 +1,4 @@
-# Week2 (2018/06/18 - 2018/06/15)
+# Week2 (2018/06/18 - 2018/06/24)
 
 
 ## Todo
@@ -12,7 +12,15 @@
 
 
 ## Summary
-Coming soon
+
+1. Added homepage for adademic portal
+2. Removed All children selection and only display one child information in generic grids.
+3. Impersonate issues fixed.
+4. Created notification pop up modal for each student
+5. Created user profile and setting page UI part.
+6. Made Generic grid using new fields got from Avi, like mode/type/filter for all the coming grids.
+7. Created 6 list views following Dan's design.
+8. Changed Style and detail following Dan's feedback.
 
 ## Detail
 
@@ -23,7 +31,7 @@ Coming soon
   - [x] Show data of the first child by default
   - [x] Create Filter Header based on Dan's design
 - List View
-  - [ ] First version of List view
+  - [x] First version of 6 List views
 - Impersonate
   - [x] Update header text on impersonate mode
   - [x] fix auto suggestion
@@ -31,6 +39,9 @@ Coming soon
   - [x] Show notification popup when user clicks on badges at child fitler
 - General Update on Grids
   - [x] Update panel logic: make it more generic and be driven by api
+- Profile and Setting page
+  - [x] UI Done
+  - [x] profile avatar style change
 - Style update
   - [x] center text and image in carousel
   - [x] Crop image if the image is bigger than carousel
